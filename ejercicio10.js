@@ -1,3 +1,4 @@
+// Ejercicio 10
 function sumaElementosPares(array) {
     let suma = 0;
     for (let i = 0; i < array.length; i++) {
